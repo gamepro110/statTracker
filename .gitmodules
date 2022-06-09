@@ -1,0 +1,12 @@
+[submodule "vendor/catch2"]
+	path = vendor/catch2
+	url = git@github.com:catchorg/Catch2.git
+[submodule "vendor/spdlog"]
+	path = vendor/spdlog
+	url = git@github.com:gabime/spdlog.git
+[submodule "vendor/GLFW"]
+	path = vendor/GLFW
+	url = git@github.com:glfw/glfw.git
+[submodule "vendor/dear-imgui"]
+	path = vendor/dear-imgui
+	url = git@github.com:ocornut/imgui.git
