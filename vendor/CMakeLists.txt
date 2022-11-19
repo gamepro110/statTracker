@@ -1,14 +1,5 @@
 # vendor config
 
-add_subdirectory(catch2)
-
-set_target_properties(
-    Catch2
-    Catch2WithMain
-    PROPERTIES
-    FOLDER "deps"
-)
-
 add_subdirectory(spdlog)
 
 set_target_properties(
